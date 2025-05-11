@@ -1,3 +1,5 @@
+## The Nine Square Grid
+
 **𝐈 — electric current**  
 **𝐁 — magnetic flux density**  
 **𝐅— Ampere force**  
