@@ -1,7 +1,6 @@
-*𝐈 — electric current*  
-*𝐁 — magnetic flux density*  
-*𝐅— Ampere force*  
-
+**𝐈 — electric current**  
+**𝐁 — magnetic flux density**  
+**𝐅— Ampere force**  
 
 | 𝐅   | 𝐁 |  𝐈 | Star | Universe | Quantum |
 |  :--:  |  :--: |  :--:  |  --:  | --:  |--:  |
